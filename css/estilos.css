@@ -5,7 +5,7 @@
 
     --sena-verde:#39a900;/* toda variable inicia -- el texto esta en hexadecimal pero puede colocarlo en texto*/
     --sena-verde-oscuro:#2e8700;
-    --sena-azul:#00324d ;
+    --sena-azul:#000000 ;
     --sidebar-ancho:250px /*ancho del menu lateral px es la unidad*/
 
 } 
@@ -166,11 +166,11 @@ la usara el registro que tiene mas campos*/
 /*enlaces del menu lateral*/
 .sidebar .nav-link {
     /*blanco al 75% los enlace no activos se ven un poco apagados*/
-    color: rgba(255, 255, 255 .75);
+    color: rgba(255, 255, 255, 0.75);
     /*esquinas redondeadas*/
-    border-radius: .5rem;
+    border-radius: 0.5rem;
     /*separacion entre enlaces*/
-    margin-bottom: .25rem;
+    margin-bottom: 0.25rem;
     /*cierre la regla*/
 
 }
