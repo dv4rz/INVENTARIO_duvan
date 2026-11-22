@@ -27,7 +27,7 @@ body {/*afecta todo el cuerpo de la pagina*/
 /*se usa junto a btn: class="btn btn-sena"*/
 .btn-sena {
     /*color de texto*/
-    --bs-btn-color:#fff;
+    --bs-btn-color: #fff;
     /*color de fondo*/
     --bs-btn-bg: var(--sena-verde);
     /*color de borde*/
